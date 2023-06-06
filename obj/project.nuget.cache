@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "1wZvxpaNsazLHyTTsQrLlT6JTXjZJsvRc+2xALAn5VFCaEFdzllfHHLrVC15STgcbDYW1Q7IHBidXQfb6dQInw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mindroma\\Desktop\\Project 1\\Project 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mindroma\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mindroma\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\Mindroma\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mindroma\\.nuget\\packages\\naudio\\1.10.0\\naudio.1.10.0.nupkg.sha512",
+    "C:\\Users\\Mindroma\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mindroma\\.nuget\\packages\\system.resources.extensions\\4.7.0\\system.resources.extensions.4.7.0.nupkg.sha512",
+    "C:\\Users\\Mindroma\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\Mindroma\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\Mindroma\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
